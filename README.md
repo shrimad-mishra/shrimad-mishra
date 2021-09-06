@@ -9,7 +9,7 @@ That was just the Hi there gif. Just an animation.
 
 * This is Shrimad Mishra. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence.
 * I am a 3rd year undergraduate under the department of Computer Science and Engineering, Bengaluru.
-* I am also developing my personaized Github Pages: [cv](https://shrimadmishra.netlify.app/)
+* I am also developing my personaized Github Pages: [My Protfolio](https://shrimadmishra.netlify.app/)
 
 ***
 <img src="https://github-readme-stats.vercel.app/api?username=shrimad-mishra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfarhan10&layout=compact&theme=tokyonight">
@@ -44,8 +44,8 @@ That was just the Hi there gif. Just an animation.
 -  ⚡ Fun fact: I feel my repositories are the only trustworthy place to **commit**. You getting it? 😂
 
 -  📫 How to reach me:
-[![LinkedIn]](https://www.linkedin.com/in/shrimad-mishra-45929a1a1/)
-[![Instagram]](https://www.instagram.com/shrimad__/)
+[![LinkedIn]Shrimad Mishra](https://www.linkedin.com/in/shrimad-mishra-45929a1a1/)
+[![Instagram] Shrimad](https://www.instagram.com/shrimad__/)
 ***
 <!--
 Links with Badges.
