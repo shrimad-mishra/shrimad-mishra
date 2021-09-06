@@ -44,8 +44,8 @@ That was just the Hi there gif. Just an animation.
 -  ⚡ Fun fact: I feel my repositories are the only trustworthy place to **commit**. You getting it? 😂
 
 -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40kfpro-green)](https://www.linkedin.com/in/shrimad-mishra-45929a1a1/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40i.am.the.swagger_-yellow.svg)](https://www.instagram.com/shrimad__/)
+[![LinkedIn]](https://www.linkedin.com/in/shrimad-mishra-45929a1a1/)
+[![Instagram]](https://www.instagram.com/shrimad__/)
 ***
 <!--
 Links with Badges.
