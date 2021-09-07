@@ -12,7 +12,7 @@ That was just the Hi there gif. Just an animation.
 * I am also developing my personalized Github Pages: [My Protfolio](https://shrimadmishra.netlify.app/)
 
 ***
-<img src="https://github-readme-stats.vercel.app/api?username=shrimad-mishra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfarhan10&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=shrimad-mishra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimad-mishra&layout=compact&theme=tokyonight">
 
 **Languages and Tools:**  
 
