@@ -8,7 +8,7 @@ That was just the Hi there gif. Just an animation.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrimad-mishra&label=Profile+Views&color=green&style=plastic%22%20alt=%22khanfarhan10" /> </p>
 
 * This is Shrimad Mishra. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence.
-* I am a 3rd year undergraduate under the department of Computer Science and Engineering, Bengaluru.
+* I am a 4th year undergraduate under the department of Computer Science and Engineering, Bengaluru.
 * I am also developing my personalized Github Pages: [My Protfolio](https://shrimadmishra.netlify.app/)
 
 ***
