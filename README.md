@@ -1,11 +1,12 @@
-## Hi there 👋 I am Shrimad Mishra
-### I love machine learning and problem solving.
-
 <head>
   <meta name="google-site-verification" content="bOSwZX5aVstnGihrRD5DBFOw3-RA-aksKom-rLEhzCs" />
 </head>
+<div align="center">
+  <h2>Hi there 👋 I am Shrimad Mishra.</h2>
+  <h3>I love machine learning and problem solving.<h3>
+</div>
 
-<div align="top">
+<div align="center">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=200 height=200 />  <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=200 height=200 />  
 </div>
 
