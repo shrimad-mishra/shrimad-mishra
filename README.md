@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/shrimad-mishra/" target="blank"><img src="https://img.icons8.com/color/344/linkedin.png" alt="shrimad mishra" height="50"        width="50"/></a>
 </div>
 
-- 🌱 I’m currently working in CognoAI as a Software Developer.
+- 🌱 I’m currently working in Exotel as a Software Developer.
 - 👨‍ I'm last semester student at Dr. Ambedkar Institute of Technology, pursuing my B.E Degree
 - 🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Problem Solving.
 - 🥺 I’m looking for help with ... Django, Flask, SQL, MySQL, PostgreSQL
