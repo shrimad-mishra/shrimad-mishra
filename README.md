@@ -19,7 +19,7 @@
 </div>
 
 - 🌱 I’m currently working in Exotel as a Software Developer.
-- 👨‍ I'm last semester student at Dr. Ambedkar Institute of Technology, pursuing my B.E Degree
+- 👨‍ I'm completed my B.E. Dr. Ambedkar Institute of Technology.
 - 🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Problem Solving.
 - 🥺 I’m looking for help with ... Django, Flask, SQL, MySQL, PostgreSQL
 - 📫 How to reach me: ... mshrimad@gmail.com
