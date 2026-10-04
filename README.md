@@ -27,7 +27,7 @@
 
 <br>
 
-- 🌱 Software Engineer at **Exotel** (Gurugram), building AI voice systems and agentic backend infrastructure
+- 🌱 Senior Software Engineer at **Exotel** (Bengaluru), building AI voice systems and agentic backend infrastructure
 - 🎓 B.E. in Computer Science, Dr. Ambedkar Institute of Technology
 - 🤔 Areas of interest: Agentic AI, Voice AI, Distributed Systems, Machine Learning
 
